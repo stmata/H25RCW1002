@@ -1,3 +1,5 @@
+mylist = ([x*2 for x in range(1, 100)])
+
 keys_list = ['A', 'B', 'C']
 values_list = ['blue', 'red', 'bold']
 
