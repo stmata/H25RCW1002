@@ -1,5 +1,6 @@
 let timeoutID;
 
+let pi = 3.14
 function setOutput(outputContent) {
   document.querySelector("#output").textContent = outputContent;
 }
